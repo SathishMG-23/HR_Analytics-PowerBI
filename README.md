@@ -12,4 +12,4 @@ Excited to share my latest HR Analytics project created with PowerBI! This guide
 - Staff Growth Analysis
 - Employee Filter by Initial
 - Leave Balance Analysis
-This comprehensive dashboard and detailed analysis helped me delve into critical HR metrics, offering a clearer understanding of the workforce.
+### This comprehensive dashboard and detailed analysis helped me delve into critical HR metrics, offering a clearer understanding of the workforce.
